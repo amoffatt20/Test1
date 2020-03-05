@@ -11,7 +11,7 @@ print("hello")
 x = 0
 while x < 10:
     vv.hideMeasurementGrid()
-    time.sleep(0.5)
+    time.sleep(0.500000)
     vv.showMeasurementGrid()
     time.sleep(0.5)
     x+=1
